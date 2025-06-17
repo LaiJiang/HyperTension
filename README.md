@@ -18,3 +18,11 @@ We docducted major updates on the ML algorithms:
   - 7_7_boots.R:  apply bootstrap to get confidence intervals for the feature imortance weights from random forest.
 
 
+
+## Updates June 16, 2025
+
+* dat/annotated_ancestry.csv
+  predicted genetic ancestry information for the first batch of 110 samples 
+  
+* dat/annotated_ancestry_ADDAM2.csv
+  predicted genetic ancestry information for the second batch of 205 samples 
